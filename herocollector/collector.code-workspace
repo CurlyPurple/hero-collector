@@ -1,0 +1,47 @@
+{
+	"folders": [
+		{
+			"path": "../../../lectures/cat-collector"
+		},
+		{
+			"path": "../hero-collector"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../main_app"
+		},
+		{
+			"path": "../main_app/migrations"
+		},
+		{
+			"path": "../main_app/static"
+		},
+		{
+			"path": "../main_app/static/css"
+		},
+		{
+			"path": "../main_app/static/css/heroes"
+		},
+		{
+			"path": "../main_app/static/css/toys"
+		},
+		{
+			"path": "../main_app/static/images"
+		},
+		{
+			"path": "../main_app/static/js"
+		},
+		{
+			"path": "../main_app/templates"
+		},
+		{
+			"path": "../main_app/templates/heroes"
+		},
+		{
+			"path": "../main_app/templates/main_app"
+		}
+	],
+	"settings": {}
+}
